@@ -1,2 +1,0 @@
-# DaftPunk
-Created with CodeSandbox
